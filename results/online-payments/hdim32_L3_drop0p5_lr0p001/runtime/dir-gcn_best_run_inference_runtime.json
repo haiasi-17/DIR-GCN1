@@ -1,0 +1,6 @@
+{
+  "conv_type": "dir-gcn",
+  "label": "Baseline Dir-GCN (C1)",
+  "best_run_index": 0,
+  "avg_inference_time_seconds": 0.0659706536003796
+}

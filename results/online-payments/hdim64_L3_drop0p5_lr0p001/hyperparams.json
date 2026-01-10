@@ -1,0 +1,21 @@
+{
+  "dataset": "online-payments",
+  "hidden_dim": 64,
+  "num_layers": 3,
+  "dropout": 0.5,
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "num_epochs": 10000,
+  "num_runs": 5,
+  "alpha": 0.5,
+  "learn_alpha": false,
+  "undirected": false,
+  "self_loops": false,
+  "transpose": false,
+  "jk": "max",
+  "normalize": false,
+  "enable_lcs_masking": true,
+  "lcs_threshold": 0.5,
+  "mini_batch_training": false,
+  "mini_batch_size": 1024
+}

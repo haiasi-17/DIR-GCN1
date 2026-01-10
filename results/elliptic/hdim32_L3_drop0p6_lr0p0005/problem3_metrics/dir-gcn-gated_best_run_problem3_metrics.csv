@@ -1,0 +1,4 @@
+layer_idx,conv_type,naive_aggregations,actual_aggregations,saved_aggregations,saved_ratio,rec_num_edges,rec_num_unique_edges,rec_num_recurring_edges,rec_recurring_ratio,cache_hits,cache_hit_ratio,lcs_num_edges_total,lcs_num_edges_kept,lcs_num_edges_pruned,lcs_pruned_ratio,lcs_threshold
+0,GatedDirGCNConv,234355.0,200040.0,34315.0,0.14642316144310982,234355,234355,0,0.0,0,0.0,234355,200040,34315,0.14642316144310982,0.5
+1,GatedDirGCNConv,234355.0,228745.0,5610.0,0.023938042712978173,234355,234355,0,0.0,0,0.0,234355,228745,5610,0.023938042712978173,0.5
+2,GatedDirGCNConv,234355.0,224412.0,9943.0,0.04242708711143351,234355,234355,0,0.0,0,0.0,234355,224412,9943,0.04242708711143351,0.5

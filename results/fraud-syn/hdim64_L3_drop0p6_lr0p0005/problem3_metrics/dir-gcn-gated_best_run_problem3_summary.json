@@ -1,0 +1,9 @@
+{
+  "total_naive_aggregations": 123600.0,
+  "total_actual_aggregations": 74585.0,
+  "total_saved_aggregations": 49015.0,
+  "total_saved_ratio": 0.3965614886731392,
+  "total_edges": 123600,
+  "total_recurring_edges": 174,
+  "global_cache_hit_ratio": 0.0014077669902912622
+}

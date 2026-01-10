@@ -1,0 +1,6 @@
+{
+  "conv_type": "dir-gcn-gated",
+  "label": "Enhanced Dir-GCN (Gated, C3)",
+  "best_run_index": 1,
+  "avg_inference_time_seconds": 1.0592396249998273
+}

@@ -1,0 +1,4 @@
+layer_idx,conv_type,naive_aggregations,actual_aggregations,saved_aggregations,saved_ratio
+0,DirGCNConv,49278.0,49278.0,0.0,0.0
+1,DirGCNConv,49278.0,49278.0,0.0,0.0
+2,DirGCNConv,49278.0,49278.0,0.0,0.0

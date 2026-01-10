@@ -1,0 +1,38 @@
+{
+  "layer_0": {
+    "mp_operation_stats": {
+      "naive_ops": 468710,
+      "actual_ops": 468710,
+      "saved_ops": 0,
+      "naive_aggregations": 234355,
+      "actual_aggregations": 234355,
+      "saved_aggregations": 0,
+      "saved_ratio": 0.0,
+      "num_forwards": 1
+    }
+  },
+  "layer_1": {
+    "mp_operation_stats": {
+      "naive_ops": 468710,
+      "actual_ops": 468710,
+      "saved_ops": 0,
+      "naive_aggregations": 234355,
+      "actual_aggregations": 234355,
+      "saved_aggregations": 0,
+      "saved_ratio": 0.0,
+      "num_forwards": 1
+    }
+  },
+  "layer_2": {
+    "mp_operation_stats": {
+      "naive_ops": 468710,
+      "actual_ops": 468710,
+      "saved_ops": 0,
+      "naive_aggregations": 234355,
+      "actual_aggregations": 234355,
+      "saved_aggregations": 0,
+      "saved_ratio": 0.0,
+      "num_forwards": 1
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "layer_0": {
+    "recurring_transaction_stats": {
+      "num_edges": 234355,
+      "num_unique_edges": 234355,
+      "num_recurring_edges": 0,
+      "recurring_ratio": 0.0,
+      "cache_hits": 0,
+      "cache_hit_ratio": 0.0
+    },
+    "lcs_masking_stats": {
+      "num_edges_total": 234355,
+      "num_edges_kept": 212990,
+      "num_edges_pruned": 21365,
+      "pruned_ratio": 0.09116511275628854,
+      "threshold": 0.5
+    },
+    "mp_operation_stats": {
+      "naive_ops": 468710,
+      "actual_ops": 425980,
+      "saved_ops": 42730,
+      "naive_aggregations": 234355,
+      "actual_aggregations": 212990,
+      "saved_aggregations": 21365,
+      "saved_ratio": 0.09116511275628854,
+      "num_forwards": 1
+    }
+  },
+  "layer_1": {
+    "recurring_transaction_stats": {
+      "num_edges": 234355,
+      "num_unique_edges": 234355,
+      "num_recurring_edges": 0,
+      "recurring_ratio": 0.0,
+      "cache_hits": 0,
+      "cache_hit_ratio": 0.0
+    },
+    "lcs_masking_stats": {
+      "num_edges_total": 234355,
+      "num_edges_kept": 232771,
+      "num_edges_pruned": 1584,
+      "pruned_ratio": 0.006758976766017367,
+      "threshold": 0.5
+    },
+    "mp_operation_stats": {
+      "naive_ops": 468710,
+      "actual_ops": 465542,
+      "saved_ops": 3168,
+      "naive_aggregations": 234355,
+      "actual_aggregations": 232771,
+      "saved_aggregations": 1584,
+      "saved_ratio": 0.006758976766017367,
+      "num_forwards": 1
+    }
+  },
+  "layer_2": {
+    "recurring_transaction_stats": {
+      "num_edges": 234355,
+      "num_unique_edges": 234355,
+      "num_recurring_edges": 0,
+      "recurring_ratio": 0.0,
+      "cache_hits": 0,
+      "cache_hit_ratio": 0.0
+    },
+    "lcs_masking_stats": {
+      "num_edges_total": 234355,
+      "num_edges_kept": 174665,
+      "num_edges_pruned": 59690,
+      "pruned_ratio": 0.25469906765377315,
+      "threshold": 0.5
+    },
+    "mp_operation_stats": {
+      "naive_ops": 468710,
+      "actual_ops": 349330,
+      "saved_ops": 119380,
+      "naive_aggregations": 234355,
+      "actual_aggregations": 174665,
+      "saved_aggregations": 59690,
+      "saved_ratio": 0.25469906765377315,
+      "num_forwards": 1
+    }
+  }
+}

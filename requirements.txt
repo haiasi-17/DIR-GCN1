@@ -1,0 +1,17 @@
+streamlit==1.52.2
+pandas
+openpyxl
+
+# Modern CPU PyTorch compatible with Python 3.13
+torch==2.8.0
+
+# Matching PyG extension wheels (CPU) – pattern from pytorch_sparse binaries README
+# These -f links tell pip where to find the pre-built wheels
+-f https://data.pyg.org/whl/torch-2.8.0+cpu.html
+torch-scatter
+torch-sparse
+
+# PyTorch Geometric built on top of torch / scatter / sparse
+torch-geometric
+pytorch-lightning>=2.2
+
